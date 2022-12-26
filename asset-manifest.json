@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bd1de889.css",
-    "main.js": "/static/js/main.d33bcc37.js",
+    "main.js": "/static/js/main.90af1e3d.js",
     "static/media/relative-book-pro.eot": "/static/media/relative-book-pro.5d40e8b24d7ada6b5dc0.eot",
     "static/media/relative-book-pro.ttf": "/static/media/relative-book-pro.c2a7f8439be52bba860d.ttf",
     "static/media/relative-bold-pro.eot": "/static/media/relative-bold-pro.5c45291e12af3a1398b3.eot",
@@ -15,6 +15,6 @@
   },
   "entrypoints": [
     "static/css/main.bd1de889.css",
-    "static/js/main.d33bcc37.js"
+    "static/js/main.90af1e3d.js"
   ]
 }
